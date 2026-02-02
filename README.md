@@ -28,7 +28,7 @@
 
 ###
 
-<p align="left">- 🔭 I’m working as Full-Stack Dev<br>- 📚 I'm currently improving Node.js</p>
+<p align="left">- 🔭 I’m working as Internship Full-Stack Dev<br>- 📚 I'm currently improving React.js & Node.js</p>
 
 ###
 
